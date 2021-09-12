@@ -31,8 +31,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### I am somewhat active at:
-![LinkedIn](https://www.linkedin.com/in/harshithaa-p-v-476b291a9/)
 
 ### My articles and poem can be found @:
 ![Medium](https://harshi2000.medium.com/)
@@ -40,9 +38,6 @@
 
 ### Deployment platform:
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-### You can find me here all the time podcasting and musicholicisized !!
-![Spotify]()
 
 ### Good with these os(PS: Dont know **HACKING**!!!!!!):
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
