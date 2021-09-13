@@ -58,6 +58,10 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/harshithaa-p-v-476b291a9/)
 - ⚡ Fun fact: I spend every last penny I have on food and books:laughing:
 
+![Harshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshi606&show_icons=true&theme=radical)
+
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=harshi606&repo=github-readme-stats)](https://github.com/harshi606/github-readme-stats)
+
 
 
 
