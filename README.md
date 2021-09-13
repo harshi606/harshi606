@@ -60,7 +60,10 @@
 
 ![Harshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshi606&show_icons=true&theme=radical)
 
-[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=harshi606&repo=github-readme-stats)](https://github.com/harshi606/github-readme-stats)
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=harshi606&repo=fuel-prediction)](https://github.com/harshi606/fuel-prediction)
+[![Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=harshi606&repo=phishing-website-prediction)](https://github.com/harshi606/phishing-website-prediction)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshi606&layout=compact)](https://github.com/anuraghazra/harshi606)
+
 
 
 
