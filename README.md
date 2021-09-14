@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Alt Text](https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif?cid=ecf05e47vc3aek46pfhdum0uogaa8130kcakr21yzw7ozr17&rid=giphy.gif&ct=s)
 
